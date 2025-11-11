@@ -1,4 +1,4 @@
-#  Checkers Game (Damas chinas)
+#  Checkers Game (Damas internacionales)
 
 ---
 #  Creado por:
